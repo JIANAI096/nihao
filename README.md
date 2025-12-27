@@ -1,3 +1,4 @@
 ## JANE@github
-![v2-97979e965a4931defb8a65c02d53bfc0_b](https://github.com/user-attachments/assets/d0966a1f-d32b-4157-b3ad-999fe1bbc70a)
-![v2-b319c2906da52044897bf13307d6a3ae_b](https://github.com/user-attachments/assets/40af466b-d968-44f8-861f-154742125664)
+
+<img width="600" height="564" alt="v2-b319c2906da52044897bf13307d6a3ae_b" src="https://github.com/user-attachments/assets/5dc1ad9c-a47f-4299-8185-10abd25d5a64" />
+<img width="542" height="568" alt="v2-97979e965a4931defb8a65c02d53bfc0_b" src="https://github.com/user-attachments/assets/f3b6d810-92d7-46f3-aea2-2a23524bbd77" />
